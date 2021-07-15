@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/WhatsGram/WhatsGram"><img src="https://telegra.ph/file/6196eea17a9913bcf458f.png" alt="whatsgram" width="290"></a>
+  <a href="https://github.com/Nikhil-Jr/WhatsGram"><img src="https://telegra.ph/file/6196eea17a9913bcf458f.png" alt="whatsgram" width="290"></a>
   <br>
 <b>WhatsGram</b>
 </h1>
@@ -27,12 +27,12 @@ Soon adding more!
 
 ### Deploy :
 
-[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/WhatsGram/WhatsGram "Deploy with Heroku")<br>
-Read the [wiki](https://github.com/WhatsGram/WhatsGram/wiki/Deploy-with-Heroku) before Deploy it with Heroku<br><br>
+[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/Nikhil-Jr/WhatsGram "Deploy with Heroku")<br>
+Read the [wiki](https://github.com/Nikhil-Jr/WhatsGram/wiki/Deploy-with-Heroku) before Deploy it with Heroku<br><br>
 
 ### Commands :
 
-_Send <code>!help</code> in Anywhere. Or read this [Command's Wiki](https://github.com/WhatsGram/WhatsGram/wiki/Commands "Command's Wiki")_
+_Send <code>!help</code> in Anywhere. Or read this [Command's Wiki](https://github.com/Nikhil-Jr/WhatsGram/wiki/Commands "Command's Wiki")_
 
 ### Working :
 
@@ -54,4 +54,4 @@ _Send <code>!help</code> in Anywhere. Or read this [Command's Wiki](https://gith
 
 - [Channel](https://telegram.dog/asprojects)
 - [Support Group](https://telegram.dog/assupportchat)
-- Follow me on GitHub -- [https://github.com/AffanTheBest](https://github.com/AffanTheBest)
+- Follow me on GitHub -- [https://github.com/Nikhil-Jr](https://github.com/Nikhil-Jr)
